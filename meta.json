@@ -1,0 +1,276 @@
+{
+  "name": "Darigov Research projects",
+  "last_updated": "2021-02-14",
+  "content": [
+    {
+      "name": "Audacity Glossary Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Audacity-Glossary-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/audacity-glossary-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Beginner Friendly OpenMined Terminology Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards",
+      "Website URL": "https://www.darigovresearch.com/beginner-friendly-openmined-terms-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Coronavirus Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Coronavirus-Flashcards",
+      "Website URL": "https://darigovresearch.github.io/Coronavirus-Flashcards-Website/",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Google Machine Learning Glossary Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Google-Machine-Learning-Glossary-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/google-machine-learning-glossary-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Hugging Face Transformers Glossary Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Hugging-Face-Transformers-Glossary-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/huggingface-transformers-glossary-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "MDN Web Docs Glossary Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/MDN-Web-Docs-Glossary-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/mdn-web-docs-glossary-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "MicroPython Glossary Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/MicroPython-Glossary-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/micropython-glossary-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "NumPy Glossary Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/NumPy-Glossary-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/numpy-glossary-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Python Glossary Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Python-Glossary-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/python-glossary-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Raspberry Pi Glossary Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Raspberry-Pi-Glossary-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/raspberry-pi-glossary-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Universal Foreign Language Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Universal-Foreign-Language-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/universal-foreign-language-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Agriculture Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Agriculture-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-agriculture-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Algebraic Topology Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-algebraic-topology-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Architecture Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Architecture-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-architecture-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Areas of Mathematics Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Areas-of-Mathematics-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-areas-of-mathematics-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Artificial Intelligence Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Artificial-Intelligence-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-artificial-intelligence-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Astronomy Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Astronomy-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-astronomy-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Aviation Aerospace and Aeronautics Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Aviation-Aerospace-and-Aeronautics-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-aviation-aerospace-and-aeronautics-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Biology Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-biology-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Calculus Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-calculus-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Category Theory Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Category-Theory-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-category-theory-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Chemistry Terms Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Chemistry-Terms-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-chemistry-terms-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Clinical Research Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Chemistry-Terms-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-clinical-research-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Computer Hardware Terms Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Hardware-Terms-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-computer-hardware-terms-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Computer Science Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Science-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-computer-science-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Ecology Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-ecology-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Electrical and Electronics Engineering Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Electrical-and-Electronics-Engineering-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-electrical-and-Electronics-engineering-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Entomology Terms Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Entomology-Terms-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-entomology-terms-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Environmental Science Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Environmental-Science-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-environmental-science-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Field Theory Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Field-Theory-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-field-theory-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Game Theory Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Game-Theory-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-game-theory-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Genetics Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Genetics-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-genetics-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Geography Terms Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Geography-Terms-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-geography-terms-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Geology Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-geology-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Graph Theory Terms Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-graph-theory-terms-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of History Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-history-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Ichthyology Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Ichthyology-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-ichthyology-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Machine Vision Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Machine-Vision-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-machine-vision-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Meteorology Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Meteorology-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-meteorology-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Nanotechnology Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-nanotechnology-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Order Theory Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Order-Theory-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-order-theory-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Physics Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Physics-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-physics-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Robotics Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Robotics-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-robotics-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia Glossary of Topology Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Topology-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-topology-flashcards",
+      "tags": ["education", "flashcards"]
+    },
+    {
+      "name": "Wikipedia List of Go Terms Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-List-of-Go-Terms-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-list-of-go-terms-flashcards",
+      "tags": ["education", "flashcards"]
+    }
+  ]
+}
