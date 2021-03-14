@@ -1,6 +1,6 @@
 {
   "name": "Darigov Research projects",
-  "last_updated": "2021-02-21",
+  "last_updated": "2021-03-14",
   "content": [
     {
       "name": "Audacity Glossary Flashcards",
@@ -12,7 +12,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Audacity-Glossary-Flashcards/raw/master/Audacity%20Glossary%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://manual.audacityteam.org/man/glossary.html"
     },
     {
       "name": "Beginner Friendly OpenMined Terminology Flashcards",
@@ -24,7 +25,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/raw/master/Beginner%20Friendly%20OpenMined%20Terminology%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://github.com/openmined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"
     },
     {
       "name": "Coronavirus Flashcards",
@@ -36,7 +38,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Coronavirus-Flashcards/raw/master/en/APKG/Coronavirus%20Flashcards%20en%20English%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://github.com/darigovresearch/Coronavirus-Flashcards"
     },
     {
       "name": "Google Machine Learning Glossary Flashcards",
@@ -56,7 +59,8 @@
           "iso-code": "ko",
           "download URL": "https://github.com/darigovresearch/Google-Machine-Learning-Glossary-Flashcards/raw/master/Google%EC%9D%98%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%9A%A9%EC%96%B4%EC%A7%91%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://developers.google.com/machine-learning/glossary/"
     },
     {
       "name": "Hugging Face Transformers Glossary Flashcards",
@@ -68,7 +72,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Hugging-Face-Transformers-Glossary-Flashcards/raw/main/Hugging%20Face%20Transformers%20Glossary%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://huggingface.co/transformers/glossary.html"
     },
     {
       "name": "MDN Web Docs Glossary Flashcards",
@@ -80,7 +85,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/MDN-Web-Docs-Glossary-Flashcards/raw/master/MDN%20Web%20Docs%20Glossary%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://developer.mozilla.org/en-US/docs/Glossary"
     },
     {
       "name": "MicroPython Glossary Flashcards",
@@ -92,7 +98,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/MicroPython-Glossary-Flashcards/raw/main/MicroPython%20Glossary%20Flashcards%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "http://docs.micropython.org/en/latest/reference/glossary.html"
     },
     {
       "name": "NumPy Glossary Flashcards",
@@ -104,7 +111,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/NumPy-Glossary-Flashcards/raw/main/NumPy%20Glossary%20Flashcards%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://numpy.org/doc/stable/glossary.html"
     },
     {
       "name": "Python Glossary Flashcards",
@@ -116,7 +124,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Python-Glossary-Flashcards/raw/main/Python%20Glossary%20Flashcards%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://docs.python.org/3/glossary.html"
     },
     {
       "name": "Raspberry Pi Glossary Flashcards",
@@ -128,7 +137,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Raspberry-Pi-Glossary-Flashcards/raw/master/Raspberry%20Pi%20Glossary%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://www.raspberrypi.org/documentation/glossary/"
     },
     {
       "name": "Universal Foreign Language Flashcards",
@@ -152,7 +162,8 @@
           "iso-code": "sh-en",
           "download URL": "https://github.com/darigovresearch/Universal-Foreign-Language-Flashcards/raw/master/sh-en/APKG/UFLF%20sh-en%20Srpskohrvatski-English%20Vocabulary%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "http://www.laits.utexas.edu/fi/"
     },
     {
       "name": "Wikipedia Glossary of Agriculture Flashcards",
@@ -164,7 +175,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Agriculture-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Agriculture%20Flashcards%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_agriculture"
     },
     {
       "name": "Wikipedia Glossary of Algebraic Topology Flashcards",
@@ -176,7 +188,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Algebraic%20Topology%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"
     },
     {
       "name": "Wikipedia Glossary of Architecture Flashcards",
@@ -188,7 +201,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Architecture-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Architecture%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_architecture"
     },
     {
       "name": "Wikipedia Glossary of Areas of Mathematics Flashcards",
@@ -200,7 +214,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Areas-of-Mathematics-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Areas%20of%20Mathematics%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics"
     },
     {
       "name": "Wikipedia Glossary of Artificial Intelligence Flashcards",
@@ -212,7 +227,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Artificial-Intelligence-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Artificial%20Intelligence%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence"
     },
     {
       "name": "Wikipedia Glossary of Astronomy Flashcards",
@@ -224,7 +240,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Astronomy-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Astronomy%20Flashcards%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_astronomy"
     },
     {
       "name": "Wikipedia Glossary of Aviation Aerospace and Aeronautics Flashcards",
@@ -236,7 +253,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Aviation-Aerospace-and-Aeronautics-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Aviation%20Aerospace%20and%20Aeronautics%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wiktionary.org/wiki/Appendix:Glossary_of_aviation,_aerospace,_and_aeronautics"
     },
     {
       "name": "Wikipedia Glossary of Biology Flashcards",
@@ -248,7 +266,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Biology-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Biology%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_biology"
     },
     {
       "name": "Wikipedia Glossary of Calculus Flashcards",
@@ -260,7 +279,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Calculus%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_calculus"
     },
     {
       "name": "Wikipedia Glossary of Category Theory Flashcards",
@@ -272,7 +292,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Category-Theory-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Category%20Theory%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_category_theory"
     },
     {
       "name": "Wikipedia Glossary of Chemistry Terms Flashcards",
@@ -284,7 +305,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Chemistry-Terms-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Chemistry%20Terms%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms"
     },
     {
       "name": "Wikipedia Glossary of Clinical Research Flashcards",
@@ -296,7 +318,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Clinical-Research-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Clinical%20Research%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_clinical_research"
     },
     {
       "name": "Wikipedia Glossary of Computer Hardware Terms Flashcards",
@@ -308,7 +331,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Hardware-Terms-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Computer%20Hardware%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"
     },
     {
       "name": "Wikipedia Glossary of Computer Science Flashcards",
@@ -320,7 +344,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Science-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Computer%20Science%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_computer_science"
     },
     {
       "name": "Wikipedia Glossary of Ecology Flashcards",
@@ -332,7 +357,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Ecology%20Flashcards%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_ecology"
     },
     {
       "name": "Wikipedia Glossary of Electrical and Electronics Engineering Flashcards",
@@ -344,7 +370,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Electrical-and-Electronics-Engineering-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Electrical%20and%20Electronics%20Engineering%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering"
     },
     {
       "name": "Wikipedia Glossary of Entomology Terms Flashcards",
@@ -356,7 +383,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Entomology-Terms-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Entomology%20Terms%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_entomology_terms"
     },
     {
       "name": "Wikipedia Glossary of Environmental Science Flashcards",
@@ -368,7 +396,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Environmental-Science-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Environmental%20Science%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_environmental_science"
     },
     {
       "name": "Wikipedia Glossary of Field Theory Flashcards",
@@ -380,7 +409,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Field-Theory-Flashcards/blob/master/Wikipedia%20Glossary%20of%20Field%20Theory%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_field_theory"
     },
     {
       "name": "Wikipedia Glossary of Game Theory Flashcards",
@@ -392,7 +422,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Game-Theory-Flashcards/blob/master/Wikipedia%20Glossary%20of%20Game%20Theory%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_game_theory"
     },
     {
       "name": "Wikipedia Glossary of Genetics Flashcards",
@@ -404,7 +435,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Genetics-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Genetics%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_genetics"
     },
     {
       "name": "Wikipedia Glossary of Geography Terms Flashcards",
@@ -416,7 +448,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Geography-Terms-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Geography%20Terms%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_geography_terms"
     },
     {
       "name": "Wikipedia Glossary of Geology Flashcards",
@@ -428,7 +461,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Geology%20Flashcards%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_geology"
     },
     {
       "name": "Wikipedia Glossary of Graph Theory Terms Flashcards",
@@ -440,7 +474,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Graph%20Theory%20Terms%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"
     },
     {
       "name": "Wikipedia Glossary of History Flashcards",
@@ -452,7 +487,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards/raw/master/Wikipedia%20Glossary%20of%20History%20Flashcards%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_history"
     },
     {
       "name": "Wikipedia Glossary of Ichthyology Flashcards",
@@ -464,7 +500,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Ichthyology-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Ichthyology%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_ichthyology"
     },
     {
       "name": "Wikipedia Glossary of Machine Vision Flashcards",
@@ -476,7 +513,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Machine-Vision-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Machine%20Vision%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_machine_vision"
     },
     {
       "name": "Wikipedia Glossary of Meteorology Flashcards",
@@ -488,7 +526,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Meteorology-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Meteorology%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_meteorology"
     },
     {
       "name": "Wikipedia Glossary of Nanotechnology Flashcards",
@@ -500,7 +539,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Nanotechnology%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"
     },
     {
       "name": "Wikipedia Glossary of Order Theory Flashcards",
@@ -512,7 +552,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Order-Theory-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Order%20Theory%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_order_theory"
     },
     {
       "name": "Wikipedia Glossary of Physics Flashcards",
@@ -524,7 +565,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Physics-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Physics%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_physics"
     },
     {
       "name": "Wikipedia Glossary of Robotics Flashcards",
@@ -536,7 +578,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Robotics-Flashcards/raw/master/Wikipedia%20Glossary%20of%20Robotics%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_robotics"
     },
     {
       "name": "Wikipedia Glossary of Topology Flashcards",
@@ -548,7 +591,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Topology-Flashcards/blob/master/Wikipedia%20Glossary%20of%20Topology%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_topology"
     },
     {
       "name": "Wikipedia List of Go Terms Flashcards",
@@ -560,7 +604,8 @@
           "iso-code": "en",
           "download URL": "https://github.com/darigovresearch/Wikipedia-List-of-Go-Terms-Flashcards/raw/master/Wikipedia%20List%20of%20Go%20Terms%20(Darigov%20Decks).apkg"
         }
-      ]
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Go_terms"
     }
   ]
 }
