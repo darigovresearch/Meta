@@ -1,7 +1,20 @@
 {
   "name": "Darigov Research projects",
-  "last_updated": "2021-03-14",
+  "last_updated": "2021-05-31",
   "content": [
+    {
+      "name": "ArduPilot Glossary Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/ArduPilot-Glossary-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/ardupilot-glossary-flashcards",
+      "tags": ["education", "flashcards"],
+      "downloads": [
+        {
+          "iso-code": "en",
+          "download URL": "https://github.com/darigovresearch/ArduPilot-Glossary-Flashcards/raw/main/ArduPilot%20Glossary%20(Darigov%20Decks).apkg"
+        }
+      ],
+      "source": "https://ardupilot.org/ardupilot/docs/common-glossary.html"
+    },
     {
       "name": "Audacity Glossary Flashcards",
       "Repository URL": "https://github.com/darigovresearch/Audacity-Glossary-Flashcards",
@@ -147,6 +160,10 @@
       "tags": ["education", "flashcards"],
       "downloads": [
         {
+          "iso-code": "el-en",
+          "download URL": "https://github.com/darigovresearch/Universal-Foreign-Language-Flashcards/raw/master/el-en/APKG/UFLF%20el-en%20%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC-English%20Vocabulary%20(Darigov%20Decks).apkg"
+        },
+        {
           "iso-code": "es-en",
           "download URL": "https://github.com/darigovresearch/Universal-Foreign-Language-Flashcards/raw/master/es-en/APKG/UFLF%20es-en%20Espa%C3%B1ol-English%20Vocabulary%20(Darigov%20Decks).apkg"
         },
@@ -157,6 +174,10 @@
         {
           "iso-code": "ko-en",
           "download URL": "https://github.com/darigovresearch/Universal-Foreign-Language-Flashcards/raw/master/ko-en/APKG/UFLF%20ko-en%20%ED%95%9C%EA%B5%AD%EC%9D%B8-English%20Vocabulary%20(Darigov%20Decks)__Chapter%200%20%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!.apkg"
+        },
+        {
+          "iso-code": "pt-en",
+          "download URL": "https://github.com/darigovresearch/Universal-Foreign-Language-Flashcards/raw/master/pt-en/APKG/UFLF%20pt-en%20Portugu%C3%AAs-English%20Vocabulary%20(Darigov%20Decks).apkg"
         },
         {
           "iso-code": "sh-en",
