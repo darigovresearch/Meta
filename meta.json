@@ -1,6 +1,6 @@
 {
   "name": "Darigov Research projects",
-  "last_updated": "2021-05-31",
+  "last_updated": "2021-08-14",
   "content": [
     {
       "name": "ArduPilot Glossary Flashcards",
@@ -87,6 +87,19 @@
         }
       ],
       "source": "https://huggingface.co/transformers/glossary.html"
+    },
+    {
+      "name": "Learn X in Y minutes Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Learn-X-in-Y-minutes-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/learn-x-in-y-minutes-flashcards",
+      "tags": ["education", "flashcards"],
+      "downloads": [
+        {
+          "iso-code": "en",
+          "download URL": "https://github.com/darigovresearch/Learn-X-in-Y-minutes-Flashcards/raw/main/Learn%20X%20in%20Y%20minutes%20Flashcards%20(Darigov%20Decks)__SQL.apkg"
+        }
+      ],
+      "source": "https://learnxinyminutes.com/"
     },
     {
       "name": "MDN Web Docs Glossary Flashcards",
