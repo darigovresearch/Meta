@@ -640,6 +640,19 @@
         }
       ],
       "source": "https://en.wikipedia.org/wiki/List_of_Go_terms"
+    },
+    {
+      "name": "Wikipedia Pig Latin Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Pig-Latin-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-pig-latin-flashcards",
+      "tags": ["education", "flashcards"],
+      "downloads": [
+        {
+          "iso-code": "en",
+          "download URL": "https://github.com/darigovresearch/Wikipedia-Pig-Latin-Flashcards/raw/main/Wikipedia%20Pig%20Latin%20Flashcards%20(Darigov%20Decks).apkg"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Pig_Latin"
     }
   ]
 }
