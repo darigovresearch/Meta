@@ -1,6 +1,6 @@
 {
   "name": "Darigov Research projects",
-  "last_updated": "2021-08-14",
+  "last_updated": "2022-11-19",
   "content": [
     {
       "name": "ArduPilot Glossary Flashcards",
@@ -447,6 +447,19 @@
       "source": "https://en.wikipedia.org/wiki/Glossary_of_field_theory"
     },
     {
+      "name": "Wikipedia Glossary of Fishery Terms",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Fishery-Terms-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-fishery-terms-flashcards",
+      "tags": ["education", "flashcards"],
+      "downloads": [
+        {
+          "iso-code": "en",
+          "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Fishery-Terms-Flashcards/raw/main/Wikipedia%20Glossary%20of%20Fishery%20Terms%20(Darigov%20Decks).apkg"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_fishery_terms"
+    },
+    {
       "name": "Wikipedia Glossary of Game Theory Flashcards",
       "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Game-Theory-Flashcards",
       "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-game-theory-flashcards",
@@ -577,6 +590,19 @@
       "source": "https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"
     },
     {
+      "name": "Wikipedia Glossary of Nautical Terms Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Nautical-Terms-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-nautical-terms-flashcards",
+      "tags": ["education", "flashcards"],
+      "downloads": [
+        {
+          "iso-code": "en",
+          "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Nautical-Terms-Flashcards/raw/main/Wikipedia%20Glossary%20of%20Nautical%20Terms%20(Darigov%20Decks).apkg"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A-L)"
+    },
+    {
       "name": "Wikipedia Glossary of Order Theory Flashcards",
       "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Order-Theory-Flashcards",
       "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-order-theory-flashcards",
@@ -627,6 +653,19 @@
         }
       ],
       "source": "https://en.wikipedia.org/wiki/Glossary_of_topology"
+    },
+    {
+      "name": "Wikipedia Glossary of Underwater Diving Terminology Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Underwater-Diving-Terminology-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/wikipedia-glossary-of-underwater-diving-flashcards",
+      "tags": ["education", "flashcards"],
+      "downloads": [
+        {
+          "iso-code": "en",
+          "download URL": "https://github.com/darigovresearch/Wikipedia-Glossary-of-Underwater-Diving-Terminology-Flashcards/raw/main/Wikipedia%20Glossary%20of%20Underwater%20Diving%20Terminology%20Flashcards%20(Darigov%20Decks).apkg"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Glossary_of_underwater_diving_terminology"
     },
     {
       "name": "Wikipedia List of Go Terms Flashcards",
