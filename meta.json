@@ -1,6 +1,6 @@
 {
   "name": "Darigov Research projects",
-  "last_updated": "2022-11-19",
+  "last_updated": "2023-01-02",
   "content": [
     {
       "name": "ArduPilot Glossary Flashcards",
@@ -165,6 +165,19 @@
         }
       ],
       "source": "https://www.raspberrypi.org/documentation/glossary/"
+    },
+    {
+      "name": "Scikit-learn Glossary Flashcards",
+      "Repository URL": "https://github.com/darigovresearch/Scikit-learn-Glossary-Flashcards",
+      "Website URL": "https://www.darigovresearch.com/scikit-learn-glossary-flashcards",
+      "tags": ["education", "flashcards"],
+      "downloads": [
+        {
+          "iso-code": "en",
+          "download URL": "https://github.com/darigovresearch/Scikit-learn-Glossary-Flashcards/blob/main/Scikit-learn%20Glossary%20(Darigov%20Decks).apkg"
+        }
+      ],
+      "source": "https://scikit-learn.org/stable/glossary.html"
     },
     {
       "name": "Universal Foreign Language Flashcards",
